@@ -11,7 +11,11 @@ import time
 import concurrent.futures
 import sys
 
+<<<<<<< HEAD
 #尝试将其在github上发布
+=======
+
+>>>>>>> 27ea5bea44854f5291bf88824e0a6e31da9e2fe8
 exitFlag = 0
 
 class pageError(Exception):
